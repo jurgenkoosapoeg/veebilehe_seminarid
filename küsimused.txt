@@ -1,0 +1,5 @@
+1. Milliseid erinevaid viise leiad, et lehe sisu jagada kahte tulpa?
+Neid on palju
+
+2. Miks peetakse mahumaka veebilehe puhul otse HTML-elementide küljes olevat stiili halvaks tavaks?
+Muudab raskesti loetavamaks ja segasemaks
